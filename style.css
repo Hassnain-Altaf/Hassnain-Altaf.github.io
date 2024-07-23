@@ -32,7 +32,7 @@ main {
 .intro img {
     width: 200px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 40%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     margin-bottom: 20px;
 }
